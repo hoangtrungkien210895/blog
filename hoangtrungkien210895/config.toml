@@ -1,7 +1,7 @@
 baseurl = "https://hoangtrungkien210895.github.io/"
 languageCode = 'en-us'
 metaDataFormat = "yaml"
-title = "Blist Multilingual Theme"
+title = "Hoang Kien"
 theme = "blist"
 
 DefaultContentLanguage = "en"
@@ -12,65 +12,29 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Hey! I'm Katheryn Fox b"
-      introSubtitle = "26 y/o junior developer who enjoys social card games, blogging and painting"
-      introPhoto = "/picture.jpg"
-      logo = "/blist-logo.png"
+      introTitle = "Mình là Kiên"
+      introSubtitle = "Ý tưởng của mình khi tạo blog này là muốn gửi kiến thức IT theo 1 cách đơn giản cho những thứ tưởng chừng là “phức tạp”"
+      introPhoto = "/kien.jpeg"
+      logo = "/home.png"
     [[languages.en.menu.main]]
-        name = "Blog"
+        name = "Blog của Kiên"
         url = "blog"
         weight = 1
 
     [[languages.en.menu.main]]
-        name = "About"
+        name = "About's Kiên"
         url = "page/about/"
         weight = 2
-
-    [[languages.en.menu.main]]
-        name = "Tags"
-        url = "tags"
-        weight = 3
-
-    [[languages.en.menu.main]]
-        name = "Top Post"
-        url = "/en/blog/emoji-support/"
-        weight = 4
-
-  [languages.de]
-    contentDir = "content/de" # Deutsch
-    weight = 2
-    languageName = "Deutsch"
-    title = "Blist (mehrsprachig)"
-    description = "Modernes Blog-Theme für Ihre Hugo-Site."
-    [languages.de.params]
-      introTitle = "Hallo, ich bin Katheryn Fox"
-      introSubtitle = "26-jährige Junior-Entwicklerin, die Spaß an sozialen Kartenspielen, Bloggen und Malen hat"
-      introPhoto = "/picture.jpg"
-      logo = "/blist-logo-de.png"
-    [[languages.de.menu.main]]
-        name = "Blog"
-        url = "blog"
-        weight = 1
-
-    [[languages.de.menu.main]]
-        name = "Über mich"
-        url = "page/about/"
-        weight = 2
-
-    [[languages.de.menu.main]]
-        name = "Tags"
-        url = "tags"
-        weight = 3
         
   [languages.fr]
     contentDir = "content/fr" #French
     weight = 1
-    languageName = "Français"
+    languageName = "English"
     [languages.fr.params]
-      introTitle = "Salut! Je suis Katheryn Fox"
-      introSubtitle = "Développeuse junior de 26 ans qui adore les jeux de société, le blogging et la peinture"
-      introPhoto = "/picture.jpg"
-      logo = "/blist-logo.png"
+      introTitle = "Mình là Kiên"
+      introSubtitle = "Ý tưởng của mình khi tạo blog này là muốn gửi kiến thức IT theo 1 cách đơn giản cho những thứ tưởng chừng là “phức tạp”"
+      introPhoto = "/kien.jpeg"
+      logo = "/home.png"
     [[languages.fr.menu.main]]
         name = "Blog"
         url = "blog"
@@ -85,18 +49,13 @@ DefaultContentLanguageInSubdir = true
         name = "Tags"
         url = "tags"
         weight = 3
-        
-  [languages.dy]
-    contentDir = "content/dy" #Example language
-    weight = 3
-    languageName = "Test Language"
 
 [params]
   # Enable the darkmode toggle in header
   darkModeToggle = true
   
   # Enable search in header
-  enableSearch = true
+  enableSearch = false
 
   # Custom copyright - optional
   copyright = "Copyright © 2021 - Katheryn Fox · All rights reserved"
@@ -121,15 +80,9 @@ DefaultContentLanguageInSubdir = true
 [params.homepage.social]
   # Global params common for both languages
   title = "Follow me"
-  description = "I work on everything coding and tweet developer memes"
-  twitter = "https://twitter.com/"
-  linkedin = "https://linkedin.com/in/"
-  xing = "https://www.xing.com/profile/"
-  github = "https://github.com/"
-  medium = "https://medium.com/"
-  reddit = "https://reddit.com/"
-  dribbble = "https://dribbble.com/"
-  stackoverflow = "https://stackoverflow.com/"
+  description = "Theo dõi group trên facebook của mình"
+  facebook = "https://www.facebook.com/groups/1058223478229630"
+ 
 
 [[menu.main]]
   name = "About"
