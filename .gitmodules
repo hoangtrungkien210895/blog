@@ -1,0 +1,8 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/hoangtrungkien210895/hoangtrungkien210895.github.io.git
+	branch = main
+[submodule "hoangtrungkien210895/public"]
+	path = hoangtrungkien210895/public
+	url = https://github.com/hoangtrungkien210895/hoangtrungkien210895.github.io.git
+	branch = main
