@@ -15,7 +15,7 @@ DefaultContentLanguageInSubdir = true
       introTitle = "Mình là Kiên"
       introSubtitle = "Ý tưởng của mình khi tạo blog này là muốn gửi kiến thức IT theo 1 cách đơn giản cho những thứ tưởng chừng là “phức tạp”"
       introPhoto = "/kien.jpeg"
-      logo = "/home.png"
+      logo = "/home2.jpeg"
     [[languages.en.menu.main]]
         name = "Blog của Kiên"
         url = "blog"
@@ -34,7 +34,7 @@ DefaultContentLanguageInSubdir = true
       introTitle = "Mình là Kiên"
       introSubtitle = "Ý tưởng của mình khi tạo blog này là muốn gửi kiến thức IT theo 1 cách đơn giản cho những thứ tưởng chừng là “phức tạp”"
       introPhoto = "/kien.jpeg"
-      logo = "/home.png"
+      logo = "/home2.jpeg"
     [[languages.fr.menu.main]]
         name = "Blog"
         url = "blog"
@@ -59,7 +59,7 @@ DefaultContentLanguageInSubdir = true
 
   # Custom copyright - optional
   copyright = "Copyright © 2021 - Katheryn Fox · All rights reserved"
-  favicon = "/favicon.svg"
+  favicon = "/favicon.jpeg"
 
   # Color for the intro details and social links block, not applicable for dark mode
   # Supported values: Any color from TailwindCSS default colors

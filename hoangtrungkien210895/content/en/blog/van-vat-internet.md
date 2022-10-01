@@ -87,7 +87,7 @@ p/s:thành tựu này đã rất giống với cách thức hoạt động của
 <h3>Thời kì thứ 3  : Hiện đại </h3>
 
 ![Placeholder](/b.png)
-Ta có thế khái quát như sau:
+Ta có thể khái quát như sau:
 
 -	Với thành tựu ở phần cột mốc ta hoàn toàn có thể thấy được mọi thông tin đều có thể truyền tải dưới dạng tín hiệu . 
 -	Hiện tại mọi thông tin được lưu trữ trên máy tính cá nhân đều được mã hóa dưới dạng các bit (ý tưởng của chúng cũng như là các tín hiệu. nhưng chúng được lưu trữ lại ở máy tính cá nhân của bạn  ) .
