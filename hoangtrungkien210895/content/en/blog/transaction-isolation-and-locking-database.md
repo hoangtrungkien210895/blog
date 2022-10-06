@@ -71,7 +71,7 @@ Chú ý: có những case khác nhau như Mariadb thì Repeatable read sẽ k đ
 
 **Kết luận :  Tổng kết cả 2 phần ta sẽ hình thành được mindset về việc cơ chế cấp phát khóa , việc đọc dữ liệu uncommitted,committed và đọc dữ liệu kết hợp đòi khóa .** 
 
-**Anh em thấy đấy việc một bản ghi của anh em bị locking và không thể đọc được đó là kết quả của một cuộc thương thảo bất thành giữa thằng giữ khóa và 1 thăng đòi khóa :)))**
+**Anh em thấy đấy việc một bản ghi của anh em bị locking và không thể đọc được đó là kết quả của một cuộc thương thảo bất thành giữa thằng giữ khóa và 1 thằng đòi khóa :)))**
 
 
 ---
